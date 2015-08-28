@@ -6,9 +6,9 @@ civic.json looks like this:
 
 	{
 	        "status": "Beta",
-	        "thumbnailUrl": "http://www.skyspaceinternational.com/yahoo_site_admin/assets/images/NYC_Skyline_Thumb.97220225.jpg",
-	        "bornAt": "BetaNYC Hacknights",
-	        "geography": "NYC",
+	        "thumbnailUrl": "http://www.zsolt-bognar.com/wp-content/uploads/2013/07/princeton-rockefeller-college-cloister-07771.jpeg",
+	        "bornAt": "CodeForPrinceton Hack & Yack Nights",
+	        "geography": "Princeton",
 	        "politicalEntity":"",
 	        "type":"Web App",
 	        "needs": [
